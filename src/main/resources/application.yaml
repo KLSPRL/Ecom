@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Ecommerce Application
+
+springdoc:
+  swagger-ui:
+    enabled: true
+  api-docs:
+    enabled: true
